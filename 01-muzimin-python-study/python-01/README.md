@@ -1,4 +1,4 @@
-# python简介
+# python简介 -- 基础功能
 
 ## Python的设计目标
 
